@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Dataset files
+*.csv
+*.h5
+*.pkl
+dataset/
+data/
+
+# Model weights
+*.weights
+*.pt
+models/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+venv/
+notepad README.md
