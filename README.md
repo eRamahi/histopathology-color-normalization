@@ -99,6 +99,8 @@ This project uses the **BreakHis (Breast Cancer Histopathological Database)** da
 ---
 
 ## Repository Structure
+
+```text
 histopathology-color-normalization/
 ├── 1-literature-review/
 │   └── papers/
@@ -125,6 +127,7 @@ histopathology-color-normalization/
 │   └── histopathology-sample.png
 ├── README.md
 └── .gitignore
+```
 ---
 
 ## Usage
